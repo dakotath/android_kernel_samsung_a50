@@ -125,6 +125,10 @@ clang/
 gcc/
 gcc32/
 toolchain/
+PRISH/
+output/
+carbon.sh
+Anykernel3/
 
 # Kdevelop4
 *.kdev4
